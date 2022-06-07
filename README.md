@@ -2,5 +2,6 @@
 # UI Lab 1
 # Результат роботи
 ![](https://github.com/ppc-ntu-khpi/tui-1-EgorKopyl/blob/master/Lab%201%20-TUI/Screenshot_16.png)
+![](https://github.com/ppc-ntu-khpi/tui-1-EgorKopyl/blob/master/Lab%201%20-TUI/Screenshot_19.png)
 ![](https://github.com/ppc-ntu-khpi/tui-1-EgorKopyl/blob/master/Lab%201%20-TUI/Screenshot_17.png)
 ![](https://github.com/ppc-ntu-khpi/tui-1-EgorKopyl/blob/master/Lab%201%20-TUI/Screenshot_18.png)
