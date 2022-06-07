@@ -17,10 +17,6 @@ import jexer.TWindow;
 import jexer.event.TMenuEvent;
 import jexer.menu.TMenu;
 
-/**
- *
- * @author Alexander 'Taurus' Babich
- */
 public class TUIdemo extends TApplication {
 
     private static final int ABOUT_APP = 2000;
